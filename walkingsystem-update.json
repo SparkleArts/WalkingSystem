@@ -2,7 +2,7 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/walking-system",
   "1.18.2": {
     "1.0.0": "initial Mod Release",
-    "1.1.0": "Added walkingsystem Command\nChanged Config Type to Common\nAdded Adventure Mode for Adventure Maps",
+    "1.1.0": "Added walkingsystem Command\nChanged Config Type to Common\nAdded Adventure Mode for Adventure Maps\nAdded Better Mods Button as optional Dependency\nAdded Forge Update Checker",
     // List all versions of your mod for the given Minecraft version, along with their changelogs
     // ...
   },
