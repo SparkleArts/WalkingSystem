@@ -2,10 +2,11 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/walking-system",
   "1.18.2": {
     "1.0.0": "initial Mod Release",
-    "1.1.0": "§e- Added walkingsystem Command\n- Changed Config Type to Common\n- Added Adventure Mode for Adventure Maps\n- Added Better Mods Button as optional Dependency\n- Added Forge Update Checker"
+    "1.1.0": "§e- Added walkingsystem Command\n- Changed Config Type to Common\n- Added Adventure Mode for Adventure Maps\n- Added Better Mods Button as optional Dependency\n- Added Forge Update Checker",
+    "1.2.0": "§e- Added new /walkingsystem Argument 'hasSlowWalking' for enable/disable Walking System for specific Players"
   },
   "promos": {
-    "1.18.2-latest": "1.1.0",
-    "1.18.2-recommended": "1.1.0"
+    "1.18.2-latest": "1.2.0",
+    "1.18.2-recommended": "1.2.0"
   }
 }
