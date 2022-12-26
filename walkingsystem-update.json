@@ -9,7 +9,9 @@
     "1.2.0": "§e- Updated to 1.19.2"
   },
   "promos": {
+    "1.18.2-latest": "1.2.0",
     "1.19.2-latest": "1.2.0",
-    "1.18.2-recommended": "1.2.0"
+    "1.18.2-recommended": "1.2.0",
+    "1.19.2-recommended": "1.2.0"
   }
 }
